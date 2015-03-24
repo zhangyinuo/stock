@@ -1,4 +1,4 @@
-SUBDIRS = lib 3rdlib cdc
+SUBDIRS = lib 3rdlib p
 installdir = /home/vfs/
 #curday = $(shell date '+%Y%m%d')
 all:
